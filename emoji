@@ -1,0 +1,2 @@
+#!/bin/bash
+rofi -dmenu -l 10 -p "Emoji:" < "$(dirname -- "${BASH_SOURCE:-"${0-.}"}")/emojis" | cut -d' ' -f1 | tr -d '\n' | xdotool type --file /dev/stdin
