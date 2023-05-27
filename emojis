@@ -4701,3 +4701,22 @@
 🏴󠁧󠁢󠁥󠁮󠁧󠁿  flag: England flag
 🏴󠁧󠁢󠁳󠁣󠁴󠁿  flag: Scotland flag
 🏴󠁧󠁢󠁷󠁬󠁳󠁿  flag: Wales flag
+» symbol: raquo
+« symbol: laquo
+› symbol: rsaquo
+‹ symbol: lsaquo
+’ symbol: rsquo
+‘ symbol: lsquo
+” symbol: rdquo
+“ symbol: ldquo
+θ symbol: theta
+π symbol: pi
+√ symbol: square root
+≠ symbol: not equals
+░ symbol: lightly shaded block
+▒ symbol: medium shaded block
+▓ symbol: heavily shaded block
+█ symbol: full block
+​ space: zwsp
+‌ space: zwnj
+  space: hrsp
