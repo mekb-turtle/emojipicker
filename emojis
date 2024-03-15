@@ -4701,6 +4701,132 @@
 🏴󠁧󠁢󠁥󠁮󠁧󠁿  flag: England flag
 🏴󠁧󠁢󠁳󠁣󠁴󠁿  flag: Scotland flag
 🏴󠁧󠁢󠁷󠁬󠁳󠁿  flag: Wales flag
+🇦 regional indicator: letter a
+🇧 regional indicator: letter b
+🇨 regional indicator: letter c
+🇩 regional indicator: letter d
+🇪 regional indicator: letter e
+🇫 regional indicator: letter f
+🇬 regional indicator: letter g
+🇭 regional indicator: letter h
+🇮 regional indicator: letter i
+🇯 regional indicator: letter j
+🇰 regional indicator: letter k
+🇱 regional indicator: letter l
+🇲 regional indicator: letter m
+🇳 regional indicator: letter n
+🇴 regional indicator: letter o
+🇵 regional indicator: letter p
+🇶 regional indicator: letter q
+🇷 regional indicator: letter r
+🇸 regional indicator: letter s
+🇹 regional indicator: letter t
+🇺 regional indicator: letter u
+🇻 regional indicator: letter v
+🇼 regional indicator: letter w
+🇽 regional indicator: letter x
+🇾 regional indicator: letter y
+🇿 regional indicator: letter z
+α symbol: greek letter lowercase alpha
+β symbol: greek letter lowercase beta
+γ symbol: greek letter lowercase gamma
+δ symbol: greek letter lowercase delta
+ε symbol: greek letter lowercase epsilon
+ζ symbol: greek letter lowercase zeta
+η symbol: greek letter lowercase eta
+θ symbol: greek letter lowercase theta
+ι symbol: greek letter lowercase iota
+κ symbol: greek letter lowercase kappa
+λ symbol: greek letter lowercase lambda
+μ symbol: greek letter lowercase mu
+ν symbol: greek letter lowercase nu
+ξ symbol: greek letter lowercase xi
+ο symbol: greek letter lowercase omicron
+π symbol: greek letter lowercase pi
+ρ symbol: greek letter lowercase rho
+σ symbol: greek letter lowercase sigma
+τ symbol: greek letter lowercase tau
+υ symbol: greek letter lowercase upsilon
+φ symbol: greek letter lowercase phi
+χ symbol: greek letter lowercase chi
+ψ symbol: greek letter lowercase psi
+ω symbol: greek letter lowercase omega
+Α symbol: greek letter uppercase alpha
+Β symbol: greek letter uppercase beta
+Γ symbol: greek letter uppercase gamma
+Δ symbol: greek letter uppercase delta
+Ε symbol: greek letter uppercase epsilon
+Ζ symbol: greek letter uppercase zeta
+Η symbol: greek letter uppercase eta
+Θ symbol: greek letter uppercase theta
+Ι symbol: greek letter uppercase iota
+Κ symbol: greek letter uppercase kappa
+Λ symbol: greek letter uppercase lambda
+Μ symbol: greek letter uppercase mu
+Ν symbol: greek letter uppercase nu
+Ξ symbol: greek letter uppercase xi
+Ο symbol: greek letter uppercase omicron
+Π symbol: greek letter uppercase pi
+Ρ symbol: greek letter uppercase rho
+Σ symbol: greek letter uppercase sigma
+Τ symbol: greek letter uppercase tau
+Υ symbol: greek letter uppercase upsilon
+Φ symbol: greek letter uppercase phi
+Χ symbol: greek letter uppercase chi
+Ψ symbol: greek letter uppercase psi
+Ω symbol: greek letter uppercase omega
+𝔸 symbol: mathematical double-struck uppercase A
+𝔹 symbol: mathematical double-struck uppercase B
+ℂ symbol: mathematical double-struck uppercase C
+𝔻 symbol: mathematical double-struck uppercase D
+𝔼 symbol: mathematical double-struck uppercase E
+𝔽 symbol: mathematical double-struck uppercase F
+𝔾 symbol: mathematical double-struck uppercase G
+ℍ symbol: mathematical double-struck uppercase H
+𝕀 symbol: mathematical double-struck uppercase I
+𝕁 symbol: mathematical double-struck uppercase J
+𝕂 symbol: mathematical double-struck uppercase K
+𝕃 symbol: mathematical double-struck uppercase L
+𝕄 symbol: mathematical double-struck uppercase M
+ℕ symbol: mathematical double-struck uppercase N
+𝕆 symbol: mathematical double-struck uppercase O
+ℙ symbol: mathematical double-struck uppercase P
+ℚ symbol: mathematical double-struck uppercase Q
+ℝ symbol: mathematical double-struck uppercase R
+𝕊 symbol: mathematical double-struck uppercase S
+𝕋 symbol: mathematical double-struck uppercase T
+𝕌 symbol: mathematical double-struck uppercase U
+𝕍 symbol: mathematical double-struck uppercase V
+𝕎 symbol: mathematical double-struck uppercase W
+𝕏 symbol: mathematical double-struck uppercase X
+𝕐 symbol: mathematical double-struck uppercase Y
+ℤ symbol: mathematical double-struck uppercase Z
+𝕒 symbol: mathematical double-struck lowercase a
+𝕓 symbol: mathematical double-struck lowercase b
+𝕔 symbol: mathematical double-struck lowercase c
+𝕕 symbol: mathematical double-struck lowercase d
+𝕖 symbol: mathematical double-struck lowercase e
+𝕗 symbol: mathematical double-struck lowercase f
+𝕘 symbol: mathematical double-struck lowercase g
+𝕙 symbol: mathematical double-struck lowercase h
+𝕚 symbol: mathematical double-struck lowercase i
+𝕛 symbol: mathematical double-struck lowercase j
+𝕜 symbol: mathematical double-struck lowercase k
+𝕝 symbol: mathematical double-struck lowercase l
+𝕞 symbol: mathematical double-struck lowercase m
+𝕟 symbol: mathematical double-struck lowercase n
+𝕠 symbol: mathematical double-struck lowercase o
+𝕡 symbol: mathematical double-struck lowercase p
+𝕢 symbol: mathematical double-struck lowercase q
+𝕣 symbol: mathematical double-struck lowercase r
+𝕤 symbol: mathematical double-struck lowercase s
+𝕥 symbol: mathematical double-struck lowercase t
+𝕦 symbol: mathematical double-struck lowercase u
+𝕧 symbol: mathematical double-struck lowercase v
+𝕨 symbol: mathematical double-struck lowercase w
+𝕩 symbol: mathematical double-struck lowercase x
+𝕪 symbol: mathematical double-struck lowercase y
+𝕫 symbol: mathematical double-struck lowercase z
 » symbol: raquo
 « symbol: laquo
 › symbol: rsaquo
@@ -4709,10 +4835,15 @@
 ‘ symbol: lsquo
 ” symbol: rdquo
 “ symbol: ldquo
-θ symbol: theta
-π symbol: pi
-√ symbol: square root
-≠ symbol: not equals
+√ symbol: square root sqrt
+× symbol: multiplication multiply times
+÷ symbol: division divide
+= symbol: equals equality
+≠ symbol: not equals inequality
+< symbol: less than
+> symbol: greater than
+≤ symbol: less than or equal to
+≥ symbol: greater than or equal to
 ░ symbol: lightly shaded block
 ▒ symbol: medium shaded block
 ▓ symbol: heavily shaded block
